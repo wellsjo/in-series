@@ -1,7 +1,7 @@
 {
   "name": "in-series",
-  "version": "1.0.0",
-  "description": "Dead simple series concurrency control",
+  "version": "0.0.1",
+  "description": "Clean api for performing functions in series",
   "main": "index.js",
   "author": "Wells Johnston",
   "license": "MIT",
