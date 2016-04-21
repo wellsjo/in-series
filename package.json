@@ -1,0 +1,11 @@
+{
+  "name": "in-series",
+  "version": "1.0.0",
+  "description": "Dead simple series concurrency control",
+  "main": "index.js",
+  "author": "Wells Johnston",
+  "license": "MIT",
+  "dependencies": {
+    "batch": "^0.5.3"
+  }
+}
