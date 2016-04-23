@@ -15,26 +15,26 @@ const http = require('superagent');
 
 const series = new Series;
 
-series.push(done => {
+series.push(next => {
   http
   .get('http://randomuser.me/api/')
   .end((err, user) => {
     if (err) {
-      done(err)
+      next(err)
     } else {
-      done(null, user);
+      next(null, user);
     }
   })
 });
 
-series.push(done => {
+series.push(next => {
   http
   .get('http://randomuser.me/api/')
   .end((err, user) => {
     if (err) {
-      done(err)
+      next(err)
     } else {
-      done(null, user);
+      next(null, user);
     }
   })
 });
