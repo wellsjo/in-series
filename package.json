@@ -1,6 +1,6 @@
 {
   "name": "in-series",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Clean api for performing functions in series",
   "main": "index.js",
   "author": "Wells Johnston",
