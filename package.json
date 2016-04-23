@@ -7,5 +7,13 @@
   "license": "MIT",
   "dependencies": {
     "batch": "^0.5.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellsjo/in-series.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wellsjo/in-series/issues"
+  },
+  "homepage": "https://github.com/wellsjo/in-series#readme"
 }
