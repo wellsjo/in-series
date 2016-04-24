@@ -1,5 +1,5 @@
 # in-series
-This module provides a clean api for performing synchronous and asynchronous functions in series.
+This module provides a clean api for performing synchronous and asynchronous functions in series (one after the other).
 
 # Install
 ```
